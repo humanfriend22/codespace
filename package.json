@@ -1,0 +1,20 @@
+{
+  "name": "codespace",
+  "version": "1.0.0",
+  "description": "A blank repository for setting up GitHub Codespaces",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humanfriend22/codespace.git"
+  },
+  "author": "humanfriend22 <humanfriend22@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/humanfriend22/codespace/issues"
+  },
+  "homepage": "https://github.com/humanfriend22/codespace#readme",
+  "dependencies": {
+    "axios": "^1.1.2"
+  }
+}
